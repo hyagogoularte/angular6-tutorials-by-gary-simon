@@ -17,8 +17,6 @@ import { UsersComponent } from './users/users.component';
 import { DetailsComponent } from './details/details.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
 
-import { DataService } from './data/data.service';
-
 @NgModule({
   declarations: [
     AppComponent,
