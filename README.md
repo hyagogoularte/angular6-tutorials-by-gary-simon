@@ -1,4 +1,4 @@
-# Angular6
+# angular6-tutorials-by-gary-simon
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.0-rc.1.
 

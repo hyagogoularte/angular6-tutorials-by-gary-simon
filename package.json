@@ -1,5 +1,5 @@
 {
-  "name": "angular6",
+  "name": "angular6-tutorials-by-gary-simon",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -11,7 +11,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^6.1.0",
+    "@angular/animations": "^6.1.6",
     "@angular/common": "^6.1.0",
     "@angular/compiler": "^6.1.0",
     "@angular/core": "^6.1.0",
